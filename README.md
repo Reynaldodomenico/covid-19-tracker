@@ -7,9 +7,9 @@ https://covid19.mathdro.id/api
 
 ## Techs used are :
 
--React.js
--Chart.js
--Material UI
+-React.js <br>
+-Chart.js <br>
+-Material UI <br>
 
 
 
